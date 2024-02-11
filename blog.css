@@ -9,3 +9,9 @@ div{
 ul{
     list-style-type: lower-greek;
 }
+
+#jala{
+    border: 40px solid red;
+    display: inline-block;
+
+}
