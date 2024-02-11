@@ -10,8 +10,11 @@ ul{
     list-style-type: lower-greek;
 }
 
-#jala{
-    border: 40px solid red;
-    display: inline-block;
+img{
+    height: 700px;width: 500px;
+}
+
+#dance{background-color: aqua;
+    border: 20px dotted black;
 
 }
