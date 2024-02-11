@@ -5,3 +5,7 @@ div{
     border: 30px solid purple;
     padding: 20px;
 }
+
+ul{
+    list-style-type: lower-greek;
+}
